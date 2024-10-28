@@ -10,3 +10,40 @@
 +defaults/win-64::wheel-0.38.4-py37haa95532_0
 +defaults/win-64::wincertstore-0.2-py37haa95532_2
 # update specs: ['python==3.7']
+==> 2024-10-28 17:22:19 <==
+# cmd: C:\Users\HP\anaconda3\Scripts\conda-script.py install -c conda-forge --prefix e:/python/End-to-end-object-detection-using-yolo-v5/myvenv ipykernel -y
+# conda version: 24.9.2
+-defaults/win-64::certifi-2022.12.7-py37haa95532_0
++conda-forge/noarch::backcall-0.2.0-pyh9f0ad1d_0
++conda-forge/noarch::backports-1.0-pyhd8ed1ab_4
++conda-forge/noarch::backports.functools_lru_cache-2.0.0-pyhd8ed1ab_0
++conda-forge/noarch::certifi-2024.8.30-pyhd8ed1ab_0
++conda-forge/noarch::colorama-0.4.6-pyhd8ed1ab_0
++conda-forge/noarch::decorator-5.1.1-pyhd8ed1ab_0
++conda-forge/noarch::entrypoints-0.4-pyhd8ed1ab_0
++conda-forge/noarch::ipykernel-6.16.2-pyh025b116_0
++conda-forge/noarch::jedi-0.19.1-pyhd8ed1ab_0
++conda-forge/noarch::jupyter_client-7.4.9-pyhd8ed1ab_0
++conda-forge/noarch::matplotlib-inline-0.1.7-pyhd8ed1ab_0
++conda-forge/noarch::nest-asyncio-1.6.0-pyhd8ed1ab_0
++conda-forge/noarch::packaging-23.2-pyhd8ed1ab_0
++conda-forge/noarch::parso-0.8.4-pyhd8ed1ab_0
++conda-forge/noarch::pickleshare-0.7.5-py_1003
++conda-forge/noarch::prompt-toolkit-3.0.48-pyha770c72_0
++conda-forge/noarch::pygments-2.17.2-pyhd8ed1ab_0
++conda-forge/noarch::python-dateutil-2.9.0-pyhd8ed1ab_0
++conda-forge/noarch::six-1.16.0-pyh6c4a22f_0
++conda-forge/noarch::traitlets-5.9.0-pyhd8ed1ab_0
++conda-forge/noarch::wcwidth-0.2.10-pyhd8ed1ab_0
++conda-forge/win-64::debugpy-1.6.3-py37hf2a7229_0
++conda-forge/win-64::ipython-7.33.0-py37h03978a9_0
++conda-forge/win-64::jupyter_core-4.11.1-py37h03978a9_0
++conda-forge/win-64::libsodium-1.0.18-h8d14728_1
++conda-forge/win-64::psutil-5.9.3-py37h51bd9d9_0
++conda-forge/win-64::python_abi-3.7-2_cp37m
++conda-forge/win-64::pywin32-303-py37hcc03f2d_0
++conda-forge/win-64::pyzmq-24.0.1-py37h7347f05_0
++conda-forge/win-64::tornado-6.2-py37hcc03f2d_0
++conda-forge/win-64::ucrt-10.0.22621.0-h57928b3_1
++conda-forge/win-64::zeromq-4.3.4-h0e60522_1
+# update specs: ['ipykernel']
