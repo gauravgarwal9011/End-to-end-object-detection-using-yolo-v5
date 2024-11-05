@@ -1,7 +1,4 @@
-from ObjectDetection.logger import logging
-from ObjectDetection.exception import AppException
+from ObjectDetection.pipeline.training_pipeline import TrainPipeline
 
-try:
-    a = 3 /"s"
-except Exception as e:
-    raise AppException(e,sys)
+obj = TrainPipeline()
+obj.run_pipeline()
