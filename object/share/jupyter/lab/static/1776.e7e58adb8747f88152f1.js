@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunk_jupyterlab_application_top"]=self["webpackChunk_jupyterlab_application_top"]||[]).push([[1776],{41776:(e,r,t)=>{t.r(r);t.d(r,{diff:()=>n});var p={"+":"inserted","-":"deleted","@":"meta"};const n={token:function(e){var r=e.string.search(/[\t ]+?$/);if(!e.sol()||r===0){e.skipToEnd();return("error "+(p[e.string.charAt(0)]||"")).replace(/ $/,"")}var t=p[e.peek()]||e.skipToEnd();if(r===-1){e.skipToEnd()}else{e.pos=r}return t}}}}]);
+//# sourceMappingURL=1776.e7e58adb8747f88152f1.js.map?v=e7e58adb8747f88152f1
